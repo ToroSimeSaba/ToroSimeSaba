@@ -1,4 +1,5 @@
-## Hi there 👋
+## 自己紹介
+プログラミングに興味を持ち、現在、独学で学習を進めております。誰もがコンピュータを活用し、より便利な生活を送ることができるよう、サポートを提供したいと考えております。
 
 <!--
 **ToroSimeSaba/ToroSimeSaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
